@@ -1,13 +1,10 @@
-Here’s a README focusing solely on the AI model from your paper:
 
----
 
 # AI Model for Cardiovascular Disease Prediction
 
 This repository contains the AI model implementation for predicting cardiovascular disease (CVD) as presented in the paper:
 
 **"A Digital Healthcare Platform for Cardiovascular Disease Management: Architecture, Technology Integration, and Deployment"**  
-*H.-Phuc Nguyen, T.-Trung Nguyen, G.-Khuyen Pham, M.-Ngoc Ngo, Dzung V. Dinh, and Van-Dinh Nguyen*  
 
 ## Overview
 
@@ -113,17 +110,3 @@ The AI model combines advanced machine learning techniques to achieve high accur
 - Adapt the AI model for other diseases like diabetes and chronic respiratory conditions.  
 - Incorporate localized datasets to improve predictions for specific populations.  
 
-## Citation
-
-```
-@article{Nguyen2024DigitalCVD,
-  title={A Digital Healthcare Platform for Cardiovascular Disease Management: Architecture, Technology Integration, and Deployment},
-  author={H.-Phuc Nguyen and T.-Trung Nguyen and G.-Khuyen Pham and M.-Ngoc Ngo and Dzung V. Dinh and Van-Dinh Nguyen},
-  journal={Conference/Journal Name},
-  year={2024}
-}
-```
-
----
-
-This README focuses on the AI model while providing a concise structure and practical instructions.
